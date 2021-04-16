@@ -1,0 +1,6 @@
+Méthode pour activer python 3.9
+1) Copier ce chemin (Les deux lignes)
+
+./python3/.9 
+
+ 

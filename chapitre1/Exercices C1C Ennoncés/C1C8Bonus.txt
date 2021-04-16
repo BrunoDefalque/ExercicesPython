@@ -1,0 +1,52 @@
+Bonjour Monsieur, Bonjour Madame,
+
+Je vous contacte pour la création d'un programme très particulier. Je suis propritétaire d'un parc d'attraction très spécial où les attractions sont résérvées chacune à un public très particulier. Ce que je vous demande, c'est de créer un programme qui va au début simplement demander les différentes informations de la personne qui va rentrer dans le parc (Age[int ex : 25], Sexe[string ex : "M"/"F"], Nationalité[string ex : "Belge"], Taille[int ex : 180], Poids[float ex : 78,5], Signe Astrologique[votre programme affichera les 12 signes et on rentre une int de 1 à 12]). Ensuite, en fonction de ça, votre programme écrira les différentes attractions que la personne peut faire. les voicis :
+
+
+Attraction 1 : 	Grand Splash
+
+Reservée au gens de plus de 18ans du signe Cancer, Balance et Poisson
+
+Toutes les femmes de plus de 1m60 sont acceptées
+
+Les gens de plus de 45 ans sont acceptés
+
+Attraction 2 : Rivière Sauvage
+
+Reservé aux Allemand
+
+Toutes les femmes de 12 ans mesurant plus d'1m50 sont aussi acceptée
+
+les gens du signe capricorne sont tous acceptés
+
+Attraction 3 : Grand Huit
+
+Reservé aux filles de moins de 10 ans De moins d'1M30 De moins de 45 kg
+Les hommes du signe gémaux sont aussi accepté
+
+Attraction 4 : Auto Tamponeuse
+
+Reservé au Italien, Japonais et Allemand de plus de 89 ans mais moins de 120 ans qui sont des hommes
+Les Autrichien sont tous acceptés
+Les gens de moins de 17 ans sont tous accepté
+Les femme entre 25 et 35 ans sont acceptés
+
+Attraction 5 : Caroussel
+
+Reservé aux gens qui font moins d'1 m 40 de plus de 18ans
+Tous les hommes sont acceptés
+
+Attraction 6 : Chaise Volante
+
+Reservé au femme de plus de 45 ans
+Les gens mesurant moins d'1m50 sont tous accepté
+
+Attraction 7 : Trampoline la Reine des Neiges
+
+Reservé au hommes de plus de 25 ans, de plus d'1m80, qui pèsent plus que 80kg mais moins de 100 kg et qui sont du signe lion ou sagitaire
+toutes les femmes peuvent y acceder
+
+Attraction 8 : La Chenille
+
+Reservé au Nigerien de plus de 14 ans de plus d'1m50
+
